@@ -1,4 +1,4 @@
-# Take input from user
+# Adds two numbers
 number_1=int(input("Enter First Number: "))
 number_2=int(input("Enter Second Number: "))
 # + operator user to add two numbers

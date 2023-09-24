@@ -1,3 +1,4 @@
+# Subtracts one number from another
 # Take input from user
 number_1=int(input("Enter number: "))
 number_2=int(input("Enter number: "))
